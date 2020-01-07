@@ -1,0 +1,6 @@
+framework module LHAlertController {
+  umbrella header "LHAlertController-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'LHAlertController'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of LHAlertController.'
+  s.summary          = 'A simple control of LHAlertController.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/cherishandjay/LHAlertController'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'cherishandjay' => 'you@1509028992@qq.com' }
+  s.author           = { 'cherishandjay' => '1509028992@qq.com' }
   s.source           = { :git => 'https://github.com/cherishandjay/LHAlertController.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 

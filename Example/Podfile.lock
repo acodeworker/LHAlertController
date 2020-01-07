@@ -1,0 +1,16 @@
+PODS:
+  - LHAlertController (0.1.0)
+
+DEPENDENCIES:
+  - LHAlertController (from `../`)
+
+EXTERNAL SOURCES:
+  LHAlertController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LHAlertController: 82d22af3014e468c82c60c07e8183f6253392690
+
+PODFILE CHECKSUM: 538fc67eb1eabe5dfe44140eb8445d974b1d7e2d
+
+COCOAPODS: 1.8.1
